@@ -1,3 +1,15 @@
+1)Navigation Bar.
+2)Login And Registration Authentication
+3)Sliding window [when click on sliding window then open Login and Registration Form]
+4)after Login [if Parent and teacher Login then Show Button click][otherwise hide the button] 
+5)click Game button first LOgin After Load the Game.
+
+
+
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
